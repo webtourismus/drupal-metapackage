@@ -89,23 +89,6 @@
   "conflict": {
     "drupal/drupal": "*"
   },
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "config": {
-    "allow-plugins": {
-      "composer/installers": true,
-      "drupal/core-composer-scaffold": true,
-      "phpstan/extension-installer": true,
-      "dealerdirect/phpcodesniffer-composer-installer": true,
-      "cweagans/composer-patches": true
-    },
-    "sort-packages": true
-  },
-  "autoload": {
-    "files": [
-      "load.environment.php"
-    ]
-  },
   "extra": {
     "enable-patching": true,
     "patchLevel": {
