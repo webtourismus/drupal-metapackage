@@ -22,6 +22,7 @@
     "drupal/core-composer-scaffold": "^10.2.6",
     "drupal/core-recommended": "^10.2.6",
     "drupal/ctools": "^4.0.4",
+    "drupal/editor_advanced_link": "^2.2.4",
     "drupal/entity_clone": "2.0.0-beta6",
     "drupal/entity_usage": "^2.0.0",
     "drupal/field_config_cardinality": "^3.0.1",
