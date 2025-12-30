@@ -69,7 +69,7 @@
     "drupal/weight": "^3.6",
     "drush/drush": "^12.5.3 || ^13.6.0",
     "jjj/chosen": "^2.2.1",
-    "js-cookies/js-cookies": "^3.0.5",
+    "js-cookie/js-cookie": "^3.0.5",
     "symfony/css-selector": "^6.4.13",
     "symfony/dom-crawler": "^6.4.19",
     "vlucas/phpdotenv": "^5.6.1",
