@@ -28,7 +28,7 @@
     "drupal/field_group": "^4.0",
     "drupal/focal_point": "^2.1",
     "drupal/formdazzle": "^4.0",
-    "drupal/geolocation": "^4.0@beta",
+    "drupal/geolocation": "^3.14",
     "drupal/gin": "^5.0",
     "drupal/gin_login": "^2.1",
     "drupal/gin_toolbar": "^3.0",
