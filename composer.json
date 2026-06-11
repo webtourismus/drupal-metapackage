@@ -55,7 +55,6 @@
     "drupal/tailwind_jit": "^1.2",
     "drupal/token": "^1.16",
     "drupal/token_filter": "^2.2",
-    "drupal/translation_views": "^2.0.0@alpha",
     "drupal/twig_field": "^2.0",
     "drupal/twig_tweak": "^3.4",
     "drupal/ultimate_cron": "^2.0@beta",
